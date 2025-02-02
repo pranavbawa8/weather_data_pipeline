@@ -12,7 +12,7 @@ This project demonstrates a **scalable data pipeline** that:
 
 ## **Architecture Overview**
 
-![Architecture Diagram](images/AWS_ETL_PIPELINE.png)
+![Architecture Diagram](weather_data_pipeline/images/AWS_ETL_PIPELINE.png)
 
 1. **Raw Data Ingestion**:
    - Raw data is stored in an S3 bucket (`s3://raw-bucket/new-data/`).
