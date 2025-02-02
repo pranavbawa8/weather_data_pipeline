@@ -12,7 +12,7 @@ This project demonstrates a **scalable data pipeline** that:
 
 ## **Architecture Overview**
 
-![Architecture Diagram](https://github.com/pranavbawa8/weather_data_pipeline/blob/main/weather_data_pipeline/Images/architecture_diagram.png)
+![Architecture Diagram](https://github.com/pranavbawa8/weather_data_pipeline/blob/main/weather_data_pipeline/Images/architecure_diagram.png)
 
 1. **Raw Data Ingestion**:
    - Raw data is stored in an S3 bucket (`s3://raw-bucket/new-data/`).
